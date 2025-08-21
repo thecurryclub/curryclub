@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+body { @apply bg-white text-gray-900; }
+
+.container { @apply mx-auto max-w-7xl px-4; }
+
+.btn { @apply inline-flex items-center justify-center rounded-2xl px-4 py-2 font-medium shadow transition; }
+.btn-primary { @apply bg-brand-600 text-white hover:bg-brand-700; }
+.btn-outline { @apply border border-gray-300 hover:bg-gray-50; }
+
+.card { @apply rounded-2xl border bg-white; }
+.card-body { @apply p-6; }
+
+.badge { @apply inline-flex items-center gap-1 rounded-full px-2.5 py-1 text-xs font-medium; }
+.badge-soft { @apply bg-gray-100 text-gray-700; }
+.badge-hot { @apply bg-red-100 text-red-700; }
+.badge-medium { @apply bg-yellow-100 text-yellow-800; }
+.badge-mild { @apply bg-emerald-100 text-emerald-700; }
+.badge-vegan { @apply bg-emerald-100 text-emerald-700; }
+.badge-veg { @apply bg-lime-100 text-lime-800; }
+
+.prose h1 { @apply text-3xl font-bold; }
+.prose h2 { @apply text-xl font-semibold mt-6; }
+.prose ol, .prose ul { @apply list-disc list-inside text-gray-800; }
+.prose blockquote { @apply border-l-4 border-amber-600 pl-4 italic text-gray-700; }
+
+:focus-visible { outline: 2px solid #DB7F06; outline-offset: 2px; }
+
+
+/* Override header logo height at md breakpoint */
+@media (min-width: 768px){
+  .md\:h-10{
+    height: 1.25rem !important; /* 20px */
+  }
+}
+
+
+
+/* Override: header logo height on md screens */
+@media (min-width: 768px){
+  .md\:h-10{ height: 1.25rem !important; } /* per request */
+}
+

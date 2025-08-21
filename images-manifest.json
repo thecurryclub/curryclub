@@ -1,0 +1,267 @@
+{
+  "notes": "Recommended stock image pages (Pexels/Unsplash). Run fetch-images later to download into /public/images/products/{slug}.webp, replacing placeholders.",
+  "items": [
+    {
+      "name": "Butter Masala Curry Kit",
+      "slug": "butter-masala-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://unsplash.com/photos/delicious-indian-butter-chicken-served-with-rice-8zLfugmjMLc",
+        "https://unsplash.com/s/photos/paneer-butter-masala"
+      ]
+    },
+    {
+      "name": "Delicate Korma Curry Kit",
+      "slug": "delicate-korma-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://www.pexels.com/photo/close-up-shot-of-cooked-chicken-dish-4068138/"
+      ]
+    },
+    {
+      "name": "Palak (Spinach) Curry Kit",
+      "slug": "palak-spinach-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://unsplash.com/s/photos/palak-paneer"
+      ]
+    },
+    {
+      "name": "Rich Malai Curry Kit",
+      "slug": "rich-malai-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://www.pexels.com/search/malai%20curry/"
+      ]
+    },
+    {
+      "name": "Keralan Coconut Curry Kit",
+      "slug": "keralan-coconut-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://www.pexels.com/search/coconut%20curry/"
+      ]
+    },
+    {
+      "name": "Rogan Josh Curry Kit",
+      "slug": "rogan-josh-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://www.pexels.com/photo/authentic-rogan-josh-surrounded-by-mixed-spices-30203309/",
+        "https://www.pexels.com/photo/spicy-indian-curry-with-assorted-spices-30203310/"
+      ]
+    },
+    {
+      "name": "Bhuna Curry Kit",
+      "slug": "bhuna-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://www.pexels.com/search/indian%20curry%20thick/"
+      ]
+    },
+    {
+      "name": "Southern Madras Curry Kit",
+      "slug": "southern-madras-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://www.pexels.com/search/madras%20curry/"
+      ]
+    },
+    {
+      "name": "Chettinad Curry Kit",
+      "slug": "chettinad-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://www.pexels.com/search/chettinad%20curry/"
+      ]
+    },
+    {
+      "name": "Bengali Jalfrezi Curry Kit",
+      "slug": "bengali-jalfrezi-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://www.pexels.com/search/jalfrezi/",
+        "https://www.pexels.com/search/chicken%20jalfrezi/"
+      ]
+    },
+    {
+      "name": "Goan Curry Kit",
+      "slug": "goan-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://www.pexels.com/search/goan%20curry/"
+      ]
+    },
+    {
+      "name": "Keralan Coconut Curry Kit",
+      "slug": "keralan-coconut-curry-kit-v2",
+      "category": "Curry Kits",
+      "suggested_urls": []
+    },
+    {
+      "name": "Tikka Masala Curry Kit",
+      "slug": "tikka-masala-curry-kit",
+      "category": "Curry Kits",
+      "suggested_urls": [
+        "https://unsplash.com/s/photos/chicken-tikka-masala",
+        "https://www.pexels.com/search/chicken%20tikka%20masala/"
+      ]
+    },
+    {
+      "name": "Classic Lentil Tarka Daal",
+      "slug": "classic-lentil-tarka-daal",
+      "category": "Daal",
+      "suggested_urls": [
+        "https://www.pexels.com/search/dal%20tadka/"
+      ]
+    },
+    {
+      "name": "Spicy Tarka Lentil Daal",
+      "slug": "spicy-tarka-lentil-daal",
+      "category": "Daal",
+      "suggested_urls": [
+        "https://www.pexels.com/search/dal%20tadka/"
+      ]
+    },
+    {
+      "name": "Dal Makhani",
+      "slug": "dal-makhani",
+      "category": "Daal",
+      "suggested_urls": [
+        "https://images.pexels.com/photos/28674557/pexels-photo-28674557.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "https://images.pexels.com/photos/12737916/pexels-photo-12737916.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "https://www.pexels.com/photo/rich-dal-makhani-in-traditional-brass-pan-28674557/"
+      ]
+    },
+    {
+      "name": "Chickpea Masala",
+      "slug": "chickpea-masala",
+      "category": "Daal",
+      "suggested_urls": [
+        "https://images.pexels.com/photos/9287035/pexels-photo-9287035.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "https://images.pexels.com/photos/9287039/pexels-photo-9287039.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      ]
+    },
+    {
+      "name": "Delhi Biryani",
+      "slug": "delhi-biryani",
+      "category": "Biryanis",
+      "suggested_urls": [
+        "https://images.pexels.com/photos/9609847/pexels-photo-9609847.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "https://images.pexels.com/photos/9609843/pexels-photo-9609843.jpeg?auto=compress&cs=tinysrgb&w=1600"
+      ]
+    },
+    {
+      "name": "Thai Green Curry Kit",
+      "slug": "thai-green-curry-kit",
+      "category": "Asian\u2011Inspired",
+      "suggested_urls": [
+        "https://www.pexels.com/search/thai%20green%20curry/"
+      ]
+    },
+    {
+      "name": "Thai Red Curry Kit",
+      "slug": "thai-red-curry-kit",
+      "category": "Asian\u2011Inspired",
+      "suggested_urls": [
+        "https://www.pexels.com/search/thai%20red%20curry/"
+      ]
+    },
+    {
+      "name": "Thai Massaman Curry Kit",
+      "slug": "thai-massaman-curry-kit",
+      "category": "Asian\u2011Inspired",
+      "suggested_urls": [
+        "https://www.pexels.com/search/thai%20massaman%20curry/"
+      ]
+    },
+    {
+      "name": "Indonesian Rendang Kit",
+      "slug": "indonesian-rendang-kit",
+      "category": "Asian\u2011Inspired",
+      "suggested_urls": [
+        "https://www.pexels.com/search/rendang/"
+      ]
+    },
+    {
+      "name": "Indonesian Peanut Satay Kit",
+      "slug": "indonesian-peanut-satay-kit",
+      "category": "Asian\u2011Inspired",
+      "suggested_urls": [
+        "https://www.pexels.com/search/peanut%20satay/"
+      ]
+    },
+    {
+      "name": "Chinese Curry Sauce Kit",
+      "slug": "chinese-curry-sauce-kit",
+      "category": "Chinese\u2011Style",
+      "suggested_urls": [
+        "https://www.pexels.com/search/chinese%20curry%20sauce/"
+      ]
+    },
+    {
+      "name": "Sweet & Sour Sauce Kit",
+      "slug": "sweet-and-sour-sauce-kit",
+      "category": "Chinese\u2011Style",
+      "suggested_urls": []
+    },
+    {
+      "name": "Kung Pao Stir\u2011fry Sauce",
+      "slug": "kung-pao-stir-fry-sauce",
+      "category": "Chinese\u2011Style",
+      "suggested_urls": [
+        "https://www.pexels.com/search/kung%20pao/"
+      ]
+    },
+    {
+      "name": "Fiery Szechuan Sauce",
+      "slug": "fiery-szechuan-sauce",
+      "category": "Chinese\u2011Style",
+      "suggested_urls": [
+        "https://www.pexels.com/search/sichuan%20chili%20oil/"
+      ]
+    },
+    {
+      "name": "Classic Fajita Kit",
+      "slug": "classic-fajita-kit",
+      "category": "Mexican\u2011Style",
+      "suggested_urls": [
+        "https://www.pexels.com/search/fajitas/"
+      ]
+    },
+    {
+      "name": "Original Taco Kit",
+      "slug": "original-taco-kit",
+      "category": "Mexican\u2011Style",
+      "suggested_urls": [
+        "https://www.pexels.com/search/tacos/"
+      ]
+    },
+    {
+      "name": "Original Enchilada Kit",
+      "slug": "original-enchilada-kit",
+      "category": "Mexican\u2011Style",
+      "suggested_urls": [
+        "https://www.pexels.com/search/enchiladas/"
+      ]
+    },
+    {
+      "name": "Hyderabadi Biryani",
+      "slug": "hyderabadi-biryani",
+      "category": "Biryanis",
+      "suggested_urls": [
+        "https://images.pexels.com/photos/9609853/pexels-photo-9609853.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "https://www.pexels.com/search/hyderabadi%20dum%20biryani/"
+      ]
+    },
+    {
+      "name": "Simply South Sambar",
+      "slug": "simply-south-sambar",
+      "category": "Daal",
+      "suggested_urls": [
+        "https://www.pexels.com/search/idli%20sambar/",
+        "https://www.pexels.com/photo/traditional-south-indian-idli-with-sambar-and-chutney-31199041/"
+      ]
+    }
+  ]
+}

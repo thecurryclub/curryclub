@@ -1,0 +1,1 @@
+export default function NotFound(){ return <section className="container py-16"><h1 className="text-3xl font-bold">Page not found</h1><p className="text-gray-600 mt-2">Sorry, we couldn’t find that page.</p></section> }
